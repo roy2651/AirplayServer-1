@@ -1,0 +1,75 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk",
+      "sdkFolder": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\build\\intermediates",
+      "gradleModulePathName": ":airplay",
+      "moduleRootFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay",
+      "makeFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\.cxx",
+      "cxxFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx",
+      "ndkFolder": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_static",
+      "-DANDROID_TOOLCHAIN\u003dclang"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11 -fexceptions"
+    ],
+    "variantName": "debug",
+    "soFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 17,
+  "cxxBuildFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}

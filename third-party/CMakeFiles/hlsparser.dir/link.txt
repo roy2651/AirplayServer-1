@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhlsparser.a  CMakeFiles/hlsparser.dir/hlsparser/hlsparse.c.o CMakeFiles/hlsparser.dir/hlsparser/parse_playlist.c.o CMakeFiles/hlsparser.dir/hlsparser/parse_tags.c.o CMakeFiles/hlsparser.dir/hlsparser/parse_values.c.o CMakeFiles/hlsparser.dir/hlsparser/path.c.o CMakeFiles/hlsparser.dir/hlsparser/utils.c.o CMakeFiles/hlsparser.dir/hlsparser/write.c.o
+/usr/bin/ranlib libhlsparser.a

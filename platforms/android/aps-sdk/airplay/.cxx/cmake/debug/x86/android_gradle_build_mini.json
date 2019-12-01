@@ -1,0 +1,61 @@
+{
+  "buildFiles": [
+    "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\CMakeLists.txt",
+    "C:\\Users\\sheen\\Projects\\aps-github\\CMakeLists.txt",
+    "C:\\Users\\sheen\\Projects\\aps-github\\src\\CMakeLists.txt",
+    "C:\\Users\\sheen\\Projects\\aps-github\\third-party\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "ed25519-Debug-x86": {
+      "artifactName": "ed25519",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target ed25519",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\aps\\third-party\\libed25519.a"
+    },
+    "playfair-Debug-x86": {
+      "artifactName": "playfair",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target playfair",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\aps\\third-party\\libplayfair.a"
+    },
+    "aps-Debug-x86": {
+      "artifactName": "aps",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target aps",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\aps\\src\\libaps.a"
+    },
+    "hlsparser-Debug-x86": {
+      "artifactName": "hlsparser",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target hlsparser",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\aps\\third-party\\libhlsparser.a"
+    },
+    "curve25519-Debug-x86": {
+      "artifactName": "curve25519",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target curve25519",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\aps\\third-party\\libcurve25519.a"
+    },
+    "opensslaes-Debug-x86": {
+      "artifactName": "opensslaes",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target opensslaes",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\aps\\third-party\\libopensslaes.a"
+    },
+    "mdnssd-Debug-x86": {
+      "artifactName": "mdnssd",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target mdnssd",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86\\aps\\third-party\\libmdnssd.a"
+    },
+    "aps-jni-Debug-x86": {
+      "artifactName": "aps-jni",
+      "buildCommand": "C:\\Users\\sheen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\.cxx\\cmake\\debug\\x86 --target aps-jni",
+      "abi": "x86",
+      "output": "C:\\Users\\sheen\\Projects\\aps-github\\platforms\\android\\aps-sdk\\airplay\\build\\intermediates\\cmake\\debug\\obj\\x86\\libaps-jni.so"
+    }
+  }
+}

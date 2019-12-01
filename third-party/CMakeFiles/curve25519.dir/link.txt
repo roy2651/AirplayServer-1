@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcurve25519.a  CMakeFiles/curve25519.dir/curve25519/curve25519-donna.c.o
+/usr/bin/ranlib libcurve25519.a

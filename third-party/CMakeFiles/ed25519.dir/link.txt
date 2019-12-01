@@ -1,0 +1,2 @@
+/usr/bin/ar qc libed25519.a  CMakeFiles/ed25519.dir/ed25519/add_scalar.c.o CMakeFiles/ed25519.dir/ed25519/fe.c.o CMakeFiles/ed25519.dir/ed25519/ge.c.o CMakeFiles/ed25519.dir/ed25519/key_exchange.c.o CMakeFiles/ed25519.dir/ed25519/keypair.c.o CMakeFiles/ed25519.dir/ed25519/sc.c.o CMakeFiles/ed25519.dir/ed25519/seed.c.o CMakeFiles/ed25519.dir/ed25519/sha512.c.o CMakeFiles/ed25519.dir/ed25519/sign.c.o CMakeFiles/ed25519.dir/ed25519/verify.c.o
+/usr/bin/ranlib libed25519.a
