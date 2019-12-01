@@ -10,3 +10,4 @@
 /platforms/android/aps-sdk/mobile/.settings/*.prefs
 /.vscode
 /.build
+/platforms/android/aps-sdk/mobile/build
